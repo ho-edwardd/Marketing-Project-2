@@ -1,2 +1,1 @@
-# Marketing-Project-2
-Are all ”Active Moviegoers” Created Equal? Examining the Heterogeneity Amongst Self-Proclaimed Cinema Enthusiast through Inferential Models.
+Project 2 for Applied Probability Marketing course at UPenn (Wharton).
